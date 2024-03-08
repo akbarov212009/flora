@@ -1,0 +1,105 @@
+.button-1{
+  width: 140px;
+  height: 50px;
+  background: #025595;
+  border-radius: 10px;
+}
+.active-container{
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(./img/Mask\ group\ \(1\).png);
+  background-size: cover;
+}
+.fs-1a{
+  font-size: 50px;
+}
+.card-1{
+  min-width: 850px;
+  height: 100px;
+  left: 150px;
+  border-radius: 16px;
+  background: #f6efefcc;
+}
+.border-1a{
+  border: 10px solid white;
+}
+.works .col-4{
+  padding: 30px 30px;
+  height: 300px;
+}
+
+.h{
+  width: 273px;
+  height: 215px;
+  border-radius: 16px;
+  background: #ebebebe5;
+  top: 80px;
+  left: 100px;
+}
+.right{
+  right: 50px;
+}
+.left{
+  left: 50px;
+}
+.top-1{
+  top: 400px;
+}
+.h-1{
+  width: 273px;
+  height: 215px;
+  border-radius: 16px;
+  background: #ebebebe5;
+  top: 80px;
+  right: 100px;
+}
+.card-1a{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(206, 201, 201);
+}
+.gx-1a{
+  margin-left: 20px;
+}
+.line{
+  width: 2px;
+  height: 80%;
+  opacity: 5%;
+  background-color: black;
+}
+.button-2{
+  width: 56px;
+  height: 56px;
+  background: #025595;
+  border-radius: 10px;
+}
+.homes .col-3{
+  background: #e7e5e5;  
+  border-radius: 15px;
+  height: 440px;
+  padding: 10px 10px;
+}
+.mt-6{
+  margin-top: 90px;
+}
+.bg{
+  background: #e7e5e5;  
+}
+.h1-1{ 
+  width: 940px;
+  height: 260px;
+  right: 40px;
+}
+.posi{
+  left: 30px;
+  top: -80px;
+}
+.futter{
+  height: 328px;
+}
+.line-1{
+  width: 100%;
+  background: #16100D1A;
+  height: 2px;
+}
